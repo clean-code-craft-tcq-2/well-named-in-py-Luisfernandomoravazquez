@@ -1,4 +1,4 @@
-from pairColorFunctions import MAX_COMBINATIONS, color_pair_to_string, get_color_from_pair_number
+from conversionFunctions import MAX_COMBINATIONS, color_pair_to_string, get_color_from_pair_number
 
 def get_printable_form():
 
